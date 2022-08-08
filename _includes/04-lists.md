@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Pizza
+* Games
+* Learning new things
+  * github
+  * aws
